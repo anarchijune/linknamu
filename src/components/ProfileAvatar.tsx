@@ -4,7 +4,7 @@ export default function ProfileAvatar() {
       viewBox="0 0 200 200"
       role="img"
       aria-label="JKLEE 캐릭터 프로필 사진"
-      className="h-36 w-36 rounded-full bg-[#ffec99] shadow-md ring-4 ring-white"
+      className="h-36 w-36 rounded-full bg-card shadow-md ring-4 ring-avatar-ring"
     >
       {/* 몸통 */}
       <path d="M30 200c0-38 30-62 70-62s70 24 70 62z" fill="#4c6ef5" />
